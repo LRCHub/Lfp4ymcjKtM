@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "明日世界が終わるとしても",
+  "base_artist": "ASCA",
+  "createdAt": "2026-01-12T14:17:03.536370Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明日世界が終わるとしても",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/01_明日世界が終わるとしても_ASCA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明日世界が終わるとしても - Ashita Sekai ga Owarutoshitemo",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/02_明日世界が終わるとしても_-_Ashita_Sekai_ga_Owarutoshitemo_ASCA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明日世界が終わるとしても",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/pl_01_明日世界が終わるとしても_ASCA.txt"
+    }
+  ]
+}
